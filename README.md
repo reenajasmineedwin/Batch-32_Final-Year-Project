@@ -36,7 +36,7 @@ To run this project, you need to have the following software and libraries insta
 
 1. Clone or download this project repository to your local machine.
 2. Open Jupyter Notebook and navigate to the project directory.
-3. Open the Jupyter Notebook file `Breast_Cancer_Detection.ipynb`.
+3. Open the Jupyter Notebook file `Source Code-Breast Cancer Detection.ipynb`.
 4. Follow the instructions within the notebook to execute the code cells and reproduce the analysis.
 5. You can modify the notebook and experiment with different parameters or algorithms if desired.
 
